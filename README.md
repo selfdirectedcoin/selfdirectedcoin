@@ -1,16 +1,17 @@
 SelfDirectedCoin integration/staging tree
 ================================
 
-http://www.SelfDirectedCoin.org
+https://www.ifibecameself-directed.com
 
 Copyright (c) 2009-2014 Bitcoin Developers
-Copyright (c) 2011-2014 SelfDirectedCoin Developers
+Copyright (c) 2011-2014 Litecoin Developers
+Copyright (c) 2018 SelfDirectedCoin Developer
 
 What is SelfDirectedCoin?
 ----------------
 
 SelfDirectedCoin is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
- - 2.5 minute block targets
+ - 1 minute block targets
  - subsidy halves in 840k blocks (~4 years)
  - ~84 million total coins
 
@@ -19,7 +20,9 @@ The rest is the same as Bitcoin.
  - 2016 blocks to retarget difficulty
 
 For more information, as well as an immediately useable, binary version of
-the SelfDirectedCoin client sofware, see http://www.SelfDirectedCoin.org.
+the SelfDirectedCoin client sofware, see https://github.com/selfdirectedcoin.
+
+Because if you don't have your own cryptocurrency these days, you've already failed.
 
 License
 -------
